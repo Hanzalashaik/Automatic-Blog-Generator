@@ -1,4 +1,4 @@
-# Medium Post Generator
+<h1>Automatic-Blog-Generator</h1>
 
 Automatically generate and post articles on Medium using trending search queries and OpenAI's GPT-3.5 model.
 
@@ -6,7 +6,7 @@ Automatically generate and post articles on Medium using trending search queries
 
 This project is a script written in JavaScript that utilizes Google Trends, OpenAI, and the Medium API to generate and publish articles on Medium based on trending search queries. The script is scheduled to run automatically every 24 hours using the Node.js cron library.
 
-<h1>Dependencies</h1>
+## Dependencies
 
 1. `medium-api-npm`: A Node.js wrapper for the Medium API. <br>
 2. `node-cron`: A cron-like job scheduler for Node.js.<br>
